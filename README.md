@@ -6,4 +6,4 @@ I chose to create my tribute page about David Lynch as I am huge fan of American
 
 1. Appreciating ID tags to link to CSS styling
 2. Getting a grasp of the syntax needed in both HTML & CSS
-3. Understanding the basics of git and command lines and that you can acces this through an IDE like VCS
+3. Understanding the basics of git and command lines and that you can access this through an IDE like VCS
