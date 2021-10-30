@@ -1,0 +1,115 @@
+#main {
+    background-color: #5a1ec3;
+  }
+  #title {
+    font-family: "Zen Antique";
+    font-style: aerial;
+    font-size: 30px;
+    font-weight: bold;
+    color: #f5d629;
+  }
+  
+  h1 {
+    font-family: "Zen Antique";
+    font-style: aerial;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    color: #f5d629;
+    text-decoration: underline;
+  }
+  
+  #tribute-info {
+    font-family: "Zen Antique";
+    font-style: aerial;
+    font-size: 20px;
+    font-weight: bold;
+    color: #f5d629;
+  }
+  
+  #list-descrip {
+    font-family: "Zen Antique";
+    font-style: aerial;
+    font-size: 20px;
+    font-weight: bold;
+    color: #f5d629;
+  }
+  
+  #list {
+    font-family: "Zen Antique";
+    font-style: aerial;
+    font-size: 20px;
+    font-weight: bold;
+    color: orange;
+    border-style: solid;
+    border-width: 10px;
+    border-color: orange;
+    border-radius: 25px;
+    background-image: linear-gradient(
+      45deg,
+      #dc143c 25%,
+      #000000 25%,
+      #dc143c 50%,
+      #000000 50%,
+      #dc143c 75%,
+      #dc143c 75%,
+      #000000 100%
+    );
+    background-size: 56.57px 56.57px;
+  }
+  
+  #image {
+    width: 100%;
+    height: auto;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    color: #f5d629;
+    text-align: center;
+    border-style: solid;
+    border-width: 20px;
+    border-color: red;
+    border-radius: 25px;
+  }
+  
+  #img-caption {
+    font-family: "Zen Antique";
+    font-size: 20px;
+    font-style: aerial;
+    font-weight: bold;
+    text-align: center;
+    color: #f5d629;
+  }
+  
+  #tribute-link {
+    font-family: "Zen Antique";
+    font-style: aerial;
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+  }
+  
+  #wikipedia {
+    font-family: "Zen Antique";
+    font-style: aerial;
+    font-size: 20px;
+    font-weight: bold;
+    color: #f5d629;
+  }
+  
+  #music {
+    width: 100%;
+    height: auto;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    color: #f5d629;
+    text-align: center;
+    border-style: solid;
+    border-width: 20px;
+    border-color: red;
+    border-radius: 25px;
+  }
+  
