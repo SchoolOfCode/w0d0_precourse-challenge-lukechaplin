@@ -73,6 +73,21 @@
     border-radius: 25px;
   }
   
+  .iframe {
+    width: 100%;
+    height: auto;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    color: #f5d629;
+    text-align: center;
+    border-style: solid;
+    border-width: 20px;
+    border-color: red;
+    border-radius: 25px
+  }
+
   #img-caption {
     font-family: "Zen Antique";
     font-size: 20px;
